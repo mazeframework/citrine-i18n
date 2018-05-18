@@ -1,4 +1,4 @@
-require "amber"
+require "maze"
 require "i18n"
 require "./citrine-i18n/parser"
 require "./citrine-i18n/handler"
